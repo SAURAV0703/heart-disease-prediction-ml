@@ -1,4 +1,5 @@
 # 🫀 Heart Disease Prediction using Machine Learning
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project predicts the likelihood of heart disease in individuals using machine learning. It follows a clean data science pipeline — from cleaning real-world medical data to exploratory data analysis (EDA), then training multiple models to identify at-risk individuals with high accuracy.
 
